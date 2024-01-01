@@ -1,0 +1,23 @@
+{
+	"name": "pupeteer-scraping",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mhabib017/puppeteer-scrapping.git"
+	},
+	"author": "Habib",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mhabib017/puppeteer-scrapping/issues"
+	},
+	"homepage": "https://github.com/mhabib017/puppeteer-scrapping#readme",
+	"dependencies": {
+		"puppeteer": "^21.6.1"
+	}
+}
